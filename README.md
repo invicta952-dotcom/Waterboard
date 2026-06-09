@@ -41,6 +41,8 @@ there are many shape i could have taken but i decided to go with dolphine becaus
 the board kinda looks empty because i cant find cool silkscreen
 <br>
 <br>
-#   BOM
+#   zine
+<img width="148" height="210" alt="WATERBOARD" src="https://github.com/user-attachments/assets/58ac2baa-193e-46b5-9320-b8a116fbac23" />
+
 
 
